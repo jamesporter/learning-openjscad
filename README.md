@@ -1,0 +1,3 @@
+# learning-openjscad
+
+some scripts
